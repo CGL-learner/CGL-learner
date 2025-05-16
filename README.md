@@ -1,6 +1,6 @@
 ## Hi 👋
 ## About Me
-Hi! I'm CGL-learner, a passionate developer and enthusiast in BEV Perception etc. I love exploring new technologies and contributing to open source!
+Hi! I'm CGL-learner, a passionate developer and learner focused on BEV Perception (Bird's-Eye View Perception) and more! I love exploring new technologies and contributing to open source.
 <!--
 **CGL-learner/CGL-learner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
