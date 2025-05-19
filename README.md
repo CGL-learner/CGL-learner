@@ -31,19 +31,6 @@ I love exploring AI/ML solutions and contributing to open source projects in com
   <img src="https://stats.justsong.cn/api/csdn?id=weixin_50422106" alt="CSDN 访问量" width="40%" />  
 </div>  
 
-## 📅 Isometric commit calendar
-<!--/header-->
-```yaml
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
-
-```
 
 ## 📌 Pinned Repositories  
 <div align="center">  
