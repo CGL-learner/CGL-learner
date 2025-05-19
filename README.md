@@ -1,6 +1,10 @@
 ## Hi 👋  
 ## About Me  
-Hi! I'm CGL-learner, a passionate developer and learner focused on **BEV Perception (Bird's-Eye View Perception)**  **Multi-modal Fusion** **Radar signal processing** .... I love exploring AI/ML solutions and contributing to open source projects in computer vision.  
+Hi! I'm CGL-learner, a passionate developer and learner focused on 
+**BEV Perception (Bird's-Eye View Perception)**  
+**Multi-modal Fusion** 
+**Radar signal processing** 
+I love exploring AI/ML solutions and contributing to open source projects in computer vision.  
 
 
 ## 📊 GitHub Stats  
