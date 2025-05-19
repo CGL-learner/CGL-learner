@@ -11,10 +11,6 @@ I love exploring AI/ML solutions and contributing to open source projects in com
   <img src="https://metrics.lecoq.io/CGL-learner?template=classic&config.timezone=Asia/Shanghai" />  
 </div>  
 
-## Visitor Badge
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=CGL-learner" /> 
-</div>
 
 ## 🛠️ Languages & Tools  
 - Python <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />  
