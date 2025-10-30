@@ -6,7 +6,7 @@ Hi! I'm CGL-learner, a passionate developer and learner focused on **Multi-modal
 ## 📊 GitHub Stats  
 <div align="center">  
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=CGL-learner&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />  
-  <img src="https://metrics.lecoq.io/CGL-learner?template=classic&config.timezone=Asia/Shanghai" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=CGL-learner&hide_title=true&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
 </div>  
 
 
